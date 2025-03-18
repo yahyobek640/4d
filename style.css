@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1, h2 {
+    color: black;
+}
+strong {
+    color: black;
+}
+.highlight {
+    color: yellow;
+    background-color: black;
+    font-weight: bold;
+}
